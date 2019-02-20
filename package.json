@@ -1,0 +1,16 @@
+{
+  "name": "22-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maximtick/cwp-22-1": "2.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^3.2.0"
+  }
+}
